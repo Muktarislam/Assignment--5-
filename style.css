@@ -42,7 +42,7 @@ body{
 }
 #meal-container{
     display: grid;
-    grid-template-columns: repeat(4, 2fr);
+    grid-template-columns: repeat(1, 2fr);
     grid-gap: 40px;
     margin-left: 80px;
 }
